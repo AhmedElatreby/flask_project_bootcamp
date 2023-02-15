@@ -84,8 +84,12 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+
 # PyBuilder
 target/
 
 gaenv_lib/
 appengine_config.py
+
+
+*.doc
